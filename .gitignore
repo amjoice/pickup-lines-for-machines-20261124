@@ -1,0 +1,8 @@
+kit/
+kit.zip
+requirements.json
+__pycache__/
+transcripts.tar.gz
+submit.sh
+prompt-full.txt
+bundle-*.log
